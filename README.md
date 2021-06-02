@@ -13,3 +13,10 @@ The main point is to describe the additional layers you tend to use, with their 
 
 Typically this is something that would be shown on day 1 to new starters in a team "here, that's how we do RubyOnRails apps here".
 
+## Adding your pattern
+
+1. fork the repo
+2. create a branch
+3. create a folder and a README.md in there
+4. type to your heart's content
+5. push your branch, create a PR
